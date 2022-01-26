@@ -7,7 +7,7 @@
 To follow the Gatsby data fetching tutorial, download or clone this starter project by running the following command from your terminal:
 
 ```shell
-git clone [url here]
+git clone https://github.com/Ibaslogic/gatsby-starter-data-fetching
 ```
 
 This will create a directory in the name of the project folder.
