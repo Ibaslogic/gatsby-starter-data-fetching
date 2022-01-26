@@ -12,9 +12,7 @@ git clone https://github.com/Ibaslogic/gatsby-starter-data-fetching
 
 This will create a directory in the name of the project folder.
 
-Once you have the project files and folders bootstrapped, open it with your text editor.
-
-Next, switch inside the project directory and run:
+Once you have the project files and folders bootstrapped, switch inside the project directory (`cd gatsby-starter-data-fetching`) and run:
 
 ```
 npm install
@@ -22,7 +20,7 @@ npm install
 
 This will create a local `node_modules` folder and install all the necessary dependencies inside it.
 
-Finally, start your development server by running:
+Finally, open the project with your code editor and start the development server by running:
 
 ```
 gatsby develop
