@@ -2,7 +2,7 @@
   Data fetching with Gatsby and GraphQL (Starter template)
 </h1>
 
-## 🚀 Quick start
+## 🚀 Quick start 
 
 To follow the Gatsby data fetching tutorial, download or clone this starter project by running the following command from your terminal:
 
