@@ -1,8 +1,9 @@
 module.exports = {
-    siteMetadata: {
-        siteUrl: `https://www.yourdomain.tld`,
-    },
-    plugins: [
-
-    ]
-}
+  siteMetadata: {
+    title: `Gatsby tutorial`,
+    description: `A step-by-step guide to data fetching with with Gatsby and GraphQL`,
+    author: `Ibas Majid`,
+    twitter: `ibaslogic`,
+  },
+  plugins: [],
+};
