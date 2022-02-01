@@ -178,10 +178,10 @@ h3 {
 }
 
 .single__post ol,
-ul {
+.single__post ul {
   margin: 0 0 1.45rem 1.45rem;
 }
 
-li {
+.single__post li {
   margin-bottom: 0.5rem;
 }
