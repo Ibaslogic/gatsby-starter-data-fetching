@@ -2,9 +2,9 @@
   Data fetching with Gatsby and GraphQL (Starter template)
 </h1>
 
-## 🚀 Quick start 
+## 🚀 Quick start
 
-To follow the Gatsby data fetching tutorial, download or clone this starter project by running the following command from your terminal:
+This is starter files for the [Gatsby data fetching project](https://gatsbydatafetchinggraphql.gatsbyjs.io/). To download or clone this starter project, run the following command from your terminal:
 
 ```shell
 git clone https://github.com/Ibaslogic/gatsby-starter-data-fetching
